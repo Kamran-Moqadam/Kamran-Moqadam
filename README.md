@@ -125,7 +125,7 @@
 [![Quora](https://img.shields.io/badge/-Advanced%20Python%20Programming-05122A?style=flat&logo=Quora&logoColor=1572B6&link=https://quera.org/certificate/PjzqOxKw/)](https://quera.org/certificate/PjzqOxKw/)&nbsp;
 [![Quora](https://img.shields.io/badge/-Level%20Up-05122A?style=flat&logo=Quora&logoColor=1572B6&link=https://quera.org/certificate/qUrkn1j1/)](https://quera.org/certificate/qUrkn1j1/)&nbsp;
 ## 📈 Github status
-![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamran-Moqadam&theme=algolia&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamran-Moqadam&layout=compact&theme=algolia)](https://github.com/Kamran-Moqadam/Kamran-Moqadam)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Kamran-Moqadam&repo=Kamran-Moqadam&theme=algolia)](https://github.com/Kamran-Moqadam/Kamran-Moqadam)
+![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamran-Moqadam&theme=algolia&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-moqadam&layout=compact&theme=algolia)](https://github.com/Kamran-Moqadam/Kamran-Moqadam)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=kamran-moqadam&repo=kamran-moqadam&theme=algolia)](https://github.com/Kamran-Moqadam/Kamran-Moqadam)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kamran-Moqadam&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 ## 🔝 Top Contributed Repo
