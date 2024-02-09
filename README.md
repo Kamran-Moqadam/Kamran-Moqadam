@@ -1,3 +1,9 @@
+<div align="right">
+
+![Made With](https://img.shields.io/badge/Made%20with-Markdown-1f429f.svg) ![GitHub License](https://img.shields.io/github/license/Kamran-Moqadam/Kamran-Moqadam?color=1f429f)
+[![](https://visitcount.itsvg.in/api?id=Kamran-Moqadam&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
 <h1 align="center">Hey there, I'm the master of my own digital universe<span>🤯🐼🚀</span></h1>
 
 <img align="right" src="src/assets/image/readme.gif" alt="readme-gif" width="380" height="431">
@@ -47,6 +53,7 @@
 ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=SciPy)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=Cloudflare)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![Windows 11](https://img.shields.io/badge/-Windows%2011-05122A?style=flat&logo=Windows%2011)&nbsp;
 ### 💻 Tools
@@ -71,8 +78,8 @@
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-05122A?style=flat&logo=Adobe%20Lightroom)&nbsp;
 ![Krita](https://img.shields.io/badge/-Krita-05122A?style=flat&logo=Krita)&nbsp;
 ![LibreOffice](https://img.shields.io/badge/-LibreOffice-05122A?style=flat&logo=LibreOffice)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=Microsoft_Office)&nbsp;
-### 🎮 Hobbies
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=windows-xp)&nbsp;
+### ⚡ Hobbies
 ![EA](https://img.shields.io/badge/-EA-05122A?style=flat&logo=EA)&nbsp;
 ![Battle.net](https://img.shields.io/badge/-Battle.net-05122A?style=flat&logo=Battle.net)&nbsp;
 ![Epic Games](https://img.shields.io/badge/-Epic%20Games-05122A?style=flat&logo=epicgames)&nbsp;
@@ -84,6 +91,9 @@
 ![Apple Music](https://img.shields.io/badge/-Apple_Music-05122A?style=flat&logo=apple-music)&nbsp;
 ![Sound Cloud](https://img.shields.io/badge/-Sound%20Cloud-05122A?style=flat&logo=soundcloud)&nbsp;
 ![Spotify](https://img.shields.io/badge/-Spotify-05122A?style=flat&logo=Spotify)&nbsp;
+![Netflix](https://img.shields.io/badge/-Netflix-05122A?style=flat&logo=Netflix)&nbsp;
+![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=YouTube)&nbsp;
+
 ### 💬 Social
 [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=firefox&link=https://kamranmoqadam.com)](https://kamranmoqadam.com)&nbsp;
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord&link=https://discord.com/users/kamranmoqadam)](https://discord.com/users/kamranmoqadam)&nbsp;
@@ -104,5 +114,20 @@
 </p>
 
 ## 🎓 Education
+[![Associate Degree](https://img.shields.io/badge/-Associate%20Degree-05122A?style=flat&link=https://yi.iau.ir/en)](https://yi.iau.ir/en)&nbsp;
+[![Bachelor](https://img.shields.io/badge/-Bachelor%20Degree-05122A?style=flat&link=https://ctb.iau.ir/fa)](https://ctb.iau.ir/fa)&nbsp;
+[![Masters](https://img.shields.io/badge/-Masters%20Degree-05122A?style=flat&link=https://wtb.iau.ir/fa)](https://wtb.iau.ir/fa)&nbsp;
+
+
 ## 🧑‍💻 Certificate
+[![Maktab Sharif](https://img.shields.io/badge/-Python%20Coding%20Bootcamp-05122A?style=flat&logo=Tutanota&logoColor=685EA9&link=https://maktabsharif.ir/employee)](https://maktabsharif.ir/employee)&nbsp;
+[![Quora](https://img.shields.io/badge/-Fundamentals%20Of%20Python%20Programming-05122A?style=flat&logo=Quora&logoColor=1572B6&link=https://quera.org/certificate/K0la1d1Y/)](https://quera.org/certificate/K0la1d1Y/)&nbsp;
+[![Quora](https://img.shields.io/badge/-Advanced%20Python%20Programming-05122A?style=flat&logo=Quora&logoColor=1572B6&link=https://quera.org/certificate/PjzqOxKw/)](https://quera.org/certificate/PjzqOxKw/)&nbsp;
+[![Quora](https://img.shields.io/badge/-Level%20Up-05122A?style=flat&logo=Quora&logoColor=1572B6&link=https://quera.org/certificate/qUrkn1j1/)](https://quera.org/certificate/qUrkn1j1/)&nbsp;
+## 📈 Github status
+![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamran-Moqadam&theme=algolia&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamran-Moqadam&layout=compact&theme=algolia)](https://github.com/Kamran-Moqadam/Kamran-Moqadam)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Kamran-Moqadam&repo=Kamran-Moqadam&theme=algolia)](https://github.com/Kamran-Moqadam/Kamran-Moqadam)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kamran-Moqadam&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kamran-Moqadam&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 </div>
